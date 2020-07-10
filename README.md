@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ### 🌱 I’m currently learning Laravel
 ### 🔭 I’m currently working on my IMS
+### 📫 How to reach me: christiannparanas@gmail.com
