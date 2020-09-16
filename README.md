@@ -7,7 +7,7 @@ I'm a Full Stack Developer from the Philippines!
 
 ## Technologies  
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![NodeJS](https://img.icons8.com/color/30/nodejs.png)![PHP](https://img.icons8.com/color/30/php.png)![WordPress](https://img.icons8.com/color/30/wordpress.png)![SASS](https://img.icons8.com/color/30/sass.png)![NPM](https://img.icons8.com/color/30/npm.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![Bitbucket](https://img.icons8.com/color/30/bitbucket.png)![Gitlab](https://img.icons8.com/color/30/gitlab.png)![Git](https://img.icons8.com/color/30/git.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![VueJS](https://img.icons8.com/color/30/vue-js.png)![Flutter](https://img.icons8.com/color/30/flutter.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![AngularJS](https://img.icons8.com/color/30/angularjs.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)![Linux](https://img.icons8.com/color/30/linux.png)![Console](https://img.icons8.com/color/30/console.png)  
-[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="languages" height="165")](https://github.com/christiannparanas/github-readme-stats)(https://github-readme-stats.vercel.app/api?username=christiannparanas&show_icons=true&theme&tokyonight)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=christiannparanas&layout=compact&theme=tokyonight)]
 
 
 
