@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=christianparanas&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=christianparanas&color=blueviolet&label=Visit)
 
 **Languages and Tools:**  
 
