@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=christianparanas&color=blueviolet&label=Seen)
 
 **Languages and Tools:**  
 
