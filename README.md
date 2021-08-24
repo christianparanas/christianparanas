@@ -13,7 +13,7 @@
 
 ![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=christianparanas&layout=compact)
 
-[![Christian Github Stats](https://github-readme-stats.vercel.app/api?username=christianparanas)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=christianparanas)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
